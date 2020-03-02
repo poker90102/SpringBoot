@@ -19,7 +19,6 @@ public class Todo {
     private String description;
 
     private Date targetDate;
-
     public Todo() {
         super();
     }
@@ -57,12 +56,9 @@ public class Todo {
     }
 }
 
-/*
+
 //https://github.com/RameshMF/spring-boot-tutorial
 
-// https://www.javaguides.net/2018/09/mini-t
-odo-management-project-using-spring-boot-springmvc-springsecurity-jsp-hibernate-mysql.html
+// https://www.javaguides.net/2018/09/mini-todo-management-project-using-spring-boot-springmvc-springsecurity-jsp-hibernate-mysql.html
 
 // https://www.javaguides.net/2018/02/liskov-substitution-principle.html
-
- */
