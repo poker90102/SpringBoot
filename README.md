@@ -6,15 +6,14 @@
   
    | Components  | Technology  | 
    | :---        |    :----:   |   
-   | Frontend  | BootStrap, Jsp -> React 16+  | 
+   |   Frontend  | BootStrap, Jsp -> React 16+  | 
    | Backend   | Spring Boot 2.1+, Java 8, and Java 11+ |
-   | Security |  Spring Security, JWT|
+   |Security |  Spring Security, JWT|
    | Database | JDBC, JPA-Hibernate, H2, MySQL, Oracle, MangoDB|
-   | API Documentation	| Swagger API (Hub)|
-   | Client Build | npm, yarn, webpack|
-   | Server Build| Maven / Gradle|
-   | API testing| POSTMAN|
-   | Tool | Intellj Idea|
+   |API Documentation	| Swagger API (Hub)|
+   |Client Build | npm, yarn, webpack|
+   |Server Build| Maven / Gradle|
+   |API testing| POSTMAN|
 
 
 
@@ -23,19 +22,16 @@
 
  * ### [ (resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSourceCode) Getting Started with Spring Boot
  
-   *  Installing Spring Boot +  Maven (pom.xml) : (code) SpringBootFamilyMember
-   *  Spring Boot + Gradle
+   *  Installing Spring Boot +  Maven and Gradle
    *  Spring Boot 2 Hello World Application "Welcome-Back Again" 
    *  Overview of Spring Boot Starter Parent
    *  Important Spring Boot Starters with Examples
+    
+*  ### [ (resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSources ) Spring Boot How to Change Port and Context Path
+
+   *  Spring Boot 2 Deploy WAR file to External Tomcat
    *  Different Ways of Running Spring Boot Application
    *  Migrating from Spring to Spring Boot
-    
-*  ### [ (resource](https://dev.to/hamdamboy/spring-boot-basics-and-fundamentals-with-projects-5967) / [ code) ]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-1%20Spring%20Boot%20Basic%20Fund%20Projects/SpringBootSources ) RESTfull API: Spring REST Template-Spring REST Client Methods
-   
-   *  Spring REST Client Methods (GET, POST, PUT and DELETE) 
-   *  Spring Boot How to Change Port and Context Path
-   *  Spring Boot2 Deploy WAR file to External Tomcat
       
 #
 
@@ -117,8 +113,3 @@
   
 # License: Spring Boot is Open Source software released 
   * [ Apache 2.0 license ](http://www.apache.org/licenses/LICENSE-2.0.html)
-  
-#   
-# Reference FIGURES for each parts
-Part-1. API. REST Methods
-  ![Part-1. API: REST Methods ]( https://user-images.githubusercontent.com/11626327/77514502-5d821500-6eba-11ea-8699-04dcffdd6007.JPG )
