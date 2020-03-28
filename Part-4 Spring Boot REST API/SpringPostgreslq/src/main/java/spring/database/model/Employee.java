@@ -1,89 +1,65 @@
-package spring.boot.model;
+package spring.database.model;
 
-import javax.persistence.Column;
 
-import javax.persistence.Entity;
+import javax.persistence.*;
 
-import javax.persistence.GeneratedValue;
-
-import javax.persistence.GenerationType;
-
-import javax.persistence.Id;
-
-import javax.persistence.Table;
 /**
- * @Created 26 / 03 / 2020 - 12:06 PM
- * @project SpringRestAPI
- * @Author Hamdamboy
+ * @Author: apple
+ * @created on 28/03/2020
+ * @Project is SpringPosgreslq
  */
+
+
 @Entity
-@Table(name = "restapi")
+@Table(name="postgresql")
 public class Employee {
     //
-    private long id;
+
+
+    private Long id;
     private String firstName;
     private String lastName;
     private String emailId;
 
-    public Employee() {
-    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    public long getId() {
+    public Long getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(Long id) {
         this.id = id;
     }
 
-    @Column(name = "first_name", nullable = false)
-
+   // @Column(name = "first_name", nullable = false)
     public String getFirstName() {
-
         return firstName;
-
     }
 
     public void setFirstName(String firstName) {
-
         this.firstName = firstName;
-
     }
 
-
-
-    @Column(name = "last_name", nullable = false)
-
     public String getLastName() {
-
         return lastName;
-
     }
 
     public void setLastName(String lastName) {
-
         this.lastName = lastName;
-
     }
 
-
-
-    @Column(name = "email_address", nullable = false)
-
-    public String getEmailId() {
-
+    public String getEmail() {
         return emailId;
-
     }
 
-    public void setEmailId(String emailId) {
-
-        this.emailId = emailId;
-
+    public void setEmail(String email) {
+        this.emailId = email;
     }
 
+    public Employee(){
+
+    }
 
     @Override
     public String toString() {
@@ -91,7 +67,8 @@ public class Employee {
                 "id=" + id +
                 ", firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
-                ", emailId='" + emailId + '\'' +
+                ", email='" + emailId + '\'' +
                 '}';
     }
+
 }
