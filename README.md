@@ -84,7 +84,7 @@
 
 #
 # Part-6: Spring Boot + Security 
- * ### (resource/code)  Security possiblities
+ * ### (resource/[code]( https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/Part-6%20Spring%20Boot%20Security))  Security possiblities
   
      * Spring Boot 2 + Spring MVC + Role Based Spring Security + JPA + Thymeleaf + MySQL 
      * Authenticating a User with LDAP using Spring Boot and Spring Security
@@ -114,7 +114,7 @@
 
   * [ Spring MVC  ](https://www.java67.com/2019/04/top-10-spring-mvc-and-rest-annotations-examples-java.html)
   
-  * [ Spring Books  ](https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/ReferenceResources)
+  * [ Spring Books  ](https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/InAddition)
   
 # License: Spring Boot is Open Source software released 
   * [ Apache 2.0 license ](http://www.apache.org/licenses/LICENSE-2.0.html)
