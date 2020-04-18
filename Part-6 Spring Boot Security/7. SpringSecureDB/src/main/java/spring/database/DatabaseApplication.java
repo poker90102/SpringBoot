@@ -11,9 +11,3 @@ public class DatabaseApplication {
     }
 
 }
-
-
-/***
- *  There was an unexpected error (type=Forbidden, status=403).
- * Forbidden
- * */
