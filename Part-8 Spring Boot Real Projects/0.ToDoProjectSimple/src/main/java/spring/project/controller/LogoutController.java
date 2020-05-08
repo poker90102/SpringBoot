@@ -1,4 +1,4 @@
-package spring.project.controller;//package spring.project.controller;
+//package spring.project.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
@@ -21,11 +21,11 @@ public class LogoutController {
     @RequestMapping(value = "/logout", method = RequestMethod.GET)
     public String logout(HttpServletRequest request, HttpServletResponse response) {
 
-        Authentication authentication = SecurityContextHolder.getContext()
+        Authentication authencation = SecurityContextHolder.getContext()
                 .getAuthentication();
 
-        if(authentication != null) {
-            new SecurityContextLogoutHandler().logout(request, response, authentication);
+        if(authencation != null) {
+            new SecurityContextLogoutHandler().logout(request, response, authencation);
         }
 
         return "redirect:/";

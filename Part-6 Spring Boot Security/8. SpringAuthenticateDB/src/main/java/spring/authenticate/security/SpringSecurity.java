@@ -77,6 +77,11 @@ public class SpringSecurity extends WebSecurityConfigurerAdapter {
 
     }
 
+//    @Bean
+//    UserDetailsService userDetailsService(){
+//        return UserPrincipalDetialService();
+//    }
+
 
     @Bean
     DaoAuthenticationProvider authenticationProvider(){
