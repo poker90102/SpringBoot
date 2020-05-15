@@ -6,6 +6,3 @@
      2.TodoSimpleProject
      3.TodoProjectDB
      4.EmployeeSalary
-     
-     
-     9. AdminPage
