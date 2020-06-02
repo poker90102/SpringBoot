@@ -2,9 +2,6 @@ package spring.project.entity;
 
 import javax.persistence.*;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
 
 /**
  * @Author: apple
@@ -13,10 +10,7 @@ import lombok.NoArgsConstructor;
  */
 @Entity
 @Table(name = "schedule")
-@Data
-//@NoArgsConstructor
-//@AllArgsConstructorf
-public class ToDo {
+class ToDo {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -24,6 +18,7 @@ public class ToDo {
     private String todoItem;
     private String completed;
 
+  public ToDo(){}
     public long getId() {
         return id;
     }
