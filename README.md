@@ -102,15 +102,33 @@
 
 # Part-8: Spring Boot Real Project (TO-DO)
   * ### ([resource]/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-8%20Spring%20Boot%20Real%20Projects)) Project: Spring Boot  (toddler steps) 
-
+ (ongoing frontend)
      * Spring Boot + PostgreSQL + JPA/Hibernate CRUD Restful API Tutorial
      * Spring Boot + Spring JDBC + MySQL CRUD (Simple Project) 
      * Spring Boot + Angular 8 Example Tutorial
      * Spring Boot + Angular 8 + WebSocket Example Tutorial
      * Spring Boot Thymeleaf CRUD Example Tutorial
      * Spring Boot + Angular 6 CRUD Example
-     * Spring Boot 2 + Angular 7 CRUD Example Tutorial
-
+     * Spring Boot 2 + Angular 7 CRUD Example Tutorial 
+     
+     
+# Part-9: Spring Boot + Thymeleaf for Goverment Project: FrontBackend 
+  * ### ([resource]/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-9%20SpringBoot%20Goverment%20Projects)
+  
+     * Project-1. RegistrationFrontBackend_v1: Registration and Login with Spring Boot, Security, Thymeleaf, Hibernate, MySQL
+         -> Create and Setup Spring Boot Project in IntelliJ
+         -> Database(DB) Setup
+     * Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
+         -> Spring Boot + JPA/Hibernate + Thymeleaf 
+         -> Create JPA Entities - User and Role (Many to Many Mapping)
+     * Backend implementation for Registration Feature (Repository, Service and Controller)
+     
+     * Front-end implementation for Registration Feature (Thymeleaf template_)
+     
+     * Spring Security Configuration
+     * Backend implementation for Login Feature
+     * Front-end implementation for Login Feature
+     * Logout and Home Page Implementation
 # Reference Resources 
   * [ Spring Annotation ](https://www.journaldev.com/16966/spring-annotations#spring-annotations-list)
 
