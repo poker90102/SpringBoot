@@ -1,3 +1,4 @@
+
 #                                           Spring Boot Projects - Full Stack
    Total projects provide Source Codes/Guides/App, indeed down below represents. We take an opinionated view of the Spring platform and several-party libraries so you can get started with as Spring Boot.
    
@@ -100,18 +101,25 @@
    * Spring Boot 2 with JUnit 5 Testing Example
 #
 
-# Part-8: Spring Boot Real Project (TO-DO)
-  * ### ([resource]/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-8%20Spring%20Boot%20Real%20Projects)) Project: Spring Boot  (toddler steps) 
- (ongoing frontend)
-     * Spring Boot + PostgreSQL + JPA/Hibernate CRUD Restful API Tutorial
-     * Spring Boot + Spring JDBC + MySQL CRUD (Simple Project) 
-     * Spring Boot + Angular 8 Example Tutorial
-     * Spring Boot + Angular 8 + WebSocket Example Tutorial
-     * Spring Boot Thymeleaf CRUD Example Tutorial
-     * Spring Boot + Angular 6 CRUD Example
-     * Spring Boot 2 + Angular 7 CRUD Example Tutorial 
+# Part-8: Spring Boot Real Project [Backend and Frontend]
+  * ### (resource/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-8%20Spring%20Boot%20Real%20Projects)) Project: Spring Boot  (toddler steps) 
+ 
+    * Spring Boot + PostgreSQL + JPA/Hibernate CRUD Restful API Tutorial
+    * Spring Boot + Spring JDBC + MySQL CRUD (Simple Project) 
+    * Spring Boot Thymeleaf CRUD Example Tutorial
      
-
+ # Part-9: Full Stack [Spring Boot and React JS]
+  * ### (resource/[code](https://github.com/Urunov/SpringBoot-Projects-FullStack/tree/master/Part-9.SpringBoot-React-Projects)) 
+ 
+ Included README inside the folder. There are several projects and more detail information. 
+    
+     * Part-1. FullStack : Spring Boot React JS CRUD Swagger API 
+            > Company Employee ver1. Full Stack 
+                  - Spring Boot 
+                  - ReactJS
+                  - Swagger API
+                  - Database (MySQL)
+                  
      
      
 # Reference Resources 
@@ -121,7 +129,13 @@
   
   * [ Spring Books  ](https://github.com/Hamdambek/SpringBoot-Projects-FullStack/tree/master/InAddition)
   
-# License: Spring Boot is Open Source software released 
-  * [ Apache 2.0 license ](http://www.apache.org/licenses/LICENSE-2.0.html)
+  * [ Spring Boot React JS](https://www.tutofox.com/spring/crud-spring-boot-reactjs-api-rest-mysql-1-starter/)
+ 
+  * [Spring Boot React JS](https://www.youtube.com/watch?v=VhqG3SgRRRc&list=PLxnmNhAZjt7wHyMuaqkjXzKBBwAiCxIR7&index=13)
   
+  * [Spring Boot React Maven](https://www.youtube.com/watch?v=7XxH-G9ckeU)
+  
+  * [Spring, MicroService, GraphQL, API](https://github.com/Java-Techie-jt)
+ 
+
 #   
